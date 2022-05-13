@@ -1,0 +1,74 @@
+.Arct1{
+    font-family: 'Orienta';
+    width: 30%;
+    font-size: 150%;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 10% 0% 10% 15%;
+}
+.Arct1 p{
+    margin: 1%;
+}
+.Arct2{
+    font-family: 'Orienta';
+    text-align: center;
+    width: 25%;
+    font-size: 150%;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0% auto 2% auto ;
+}
+.Arct2 p{
+    margin: 0%;
+}   
+.ImgPrimera{
+    position: absolute;
+    width: 25%;
+    margin: 6% 0% 0% 60%;
+}
+.ImgSegunda{
+    margin: 5% 0% 5% 32%;
+    width: 40%;
+}
+.DetalleImagen{
+    width: 20%;
+    height:40%;
+    position: absolute;
+    background-color: #42C2FF;
+    visibility: hidden;
+    margin: 16% 0% 0% 41%;
+    font-family: 'Orienta';
+    border-radius: 100%;
+}
+.DetalleVideo{
+    width: 20%;
+    height:40%;
+    position: absolute;
+    background-color: #42C2FF;
+    visibility: hidden;
+    margin: 16% 0% 0% 41%;
+    font-family: 'Orienta';
+    border-radius: 100%;
+}
+.DetalleDocumento{
+    width: 20%;
+    height:40%;
+    position: absolute;
+    background-color: #42C2FF;
+    visibility: hidden;
+    margin: 16% 0% 0% 41%;
+    font-family: 'Orienta';
+    border-radius: 100%;
+}
+.DetalleChat{
+    width: 20%;
+    height:40%;
+    position: absolute;
+    background-color: #42C2FF;
+    visibility: hidden;
+    margin: 16% 0% 0% 41%;
+    font-family: 'Orienta';
+    border-radius: 100%;
+}
+.DetalleImgSegunda{
+    font-size: 120%;
+    margin: 30%  20% 30% 25%;
+}

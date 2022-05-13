@@ -1,0 +1,31 @@
+
+.Navegacion{
+    background-color: #B8FFF9;
+    width: 99.6%;
+    height: 40%;
+    padding: 0.2%;
+    font-family: 'Pacifico';
+}
+.Titulo{
+    font-size: 250%;
+    margin: 10% 2% 10% 0.5%;
+    display: inline;
+}
+.Nav{
+    margin: 10% 2% 10% 2%;
+    font-size: 150%;
+    width: 10%;
+    display: inline;
+}
+.CuentaN{
+    margin: 10% 2% 10% 10%;
+    font-size: 150%;
+    width: 10%;
+    display: inline;
+}
+.Ing{
+    margin: 10% 0% 10% 2%;
+    font-size: 150%;
+    width: 10%;
+    display: inline;
+}

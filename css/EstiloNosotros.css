@@ -1,0 +1,49 @@
+.NaveNosotros{
+    margin: 8% 5% 0% 10%;
+}
+.NaveNosotros div{
+    text-align: left;
+    width: 20%;
+    background-color: #B8FFF9;
+    padding: 0.5% 0% 0.5% 2%;
+    border-left: 5px solid #42C2FF ;
+    font-family: "Orienta";
+}
+.material-symbols-outlined {
+    position: absolute;
+    margin: 0.8% 0% 0% 15%;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+}
+.Articulo{
+    position: absolute;
+    width: auto;
+    height: auto;
+    margin: 8% 5% 0% 32%;
+    background-color: #B8FFF9;
+    font-family: "Orienta";
+    padding: 2%;
+    font-size: larger;
+}
+.ImgChat{
+    width: 55%;
+    margin-left: 20%;
+}
+.NaveNosotros div:hover{
+    font-size: 120%;
+}
+.ArtNosotros{
+    display: inherit;
+}
+.ArtMision{
+    display: none;
+}
+.ArtVision{
+    display: none;
+}
+.ArtValores{
+    display: none;
+}
